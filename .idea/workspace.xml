@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2af42608-8df6-4c05-90c2-df88c4536a42" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.19.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="OrderingUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/ordering/OrderingUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImmutableUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/collection/ImmutableUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1295#1303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultisetUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/MultisetUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiMapuse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/MultiMapuse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-196">
+              <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BiMapUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/BiMapUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TableUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/TableUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollectionsUse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/collections/CollectionsUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1499#1500#0" expanded="true" />
+                <element signature="e#1565#1566#0" expanded="true" />
+                <element signature="e#1785#1786#0" expanded="true" />
+                <element signature="e#1853#1854#0" expanded="true" />
+                <element signature="e#1998#1999#0" expanded="true" />
+                <element signature="e#2035#2036#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/optional/OptionalUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/Preconditions/PreconditionsUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/preconditions/PreconditionsUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/Objects/ObjectsUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/ordering/OrderingUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/collection/ImmutableUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/multiset/MultisetUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/MultisetUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/MultiMapuse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/BiMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/BiMapUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/TableUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghui/guava/collections/CollectionsUse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="guava-use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-use" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-use" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-use" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-use" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-use" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CollectionsUse">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="BiMapUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wanghui.guava.multi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wanghui.guava.multi.BiMapUse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="guava-use" />
+      <envs />
+    </configuration>
+    <configuration name="CollectionsUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wanghui.guava.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wanghui.guava.collections.CollectionsUse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="guava-use" />
+      <envs />
+    </configuration>
+    <configuration name="MultiMapuse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wanghui.guava.multi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wanghui.guava.multi.MultiMapuse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="guava-use" />
+      <envs />
+    </configuration>
+    <configuration name="MultisetUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wanghui.guava.multi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wanghui.guava.multi.MultisetUse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="guava-use" />
+      <envs />
+    </configuration>
+    <configuration name="TableUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wanghui.guava.multi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wanghui.guava.multi.TableUse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="guava-use" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.MultisetUse" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MultiMapuse" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BiMapUse" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TableUse" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CollectionsUse" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.CollectionsUse" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TableUse" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BiMapUse" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MultiMapuse" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MultisetUse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2af42608-8df6-4c05-90c2-df88c4536a42" name="Default" comment="" />
+      <created>1527673149118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527673149118</updated>
+      <workItem from="1527673152789" duration="2884000" />
+      <workItem from="1529397665195" duration="12413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15297000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24151857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/optional/OptionalUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/base/Optional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="74" column="50" lean-forward="false" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="50" />
+          <folding>
+            <marker date="1527673524000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1527673524000" expanded="false" signature="146:345" ph="..." />
+            <marker date="1527673524000" expanded="true" signature="347:388" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="545:556" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="581:587" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="638:649" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="707:713" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="793:898" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1011:1120" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1229:1312" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1329:1336" ph="{}" />
+            <marker date="1527673524000" expanded="false" signature="1781:1792" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="1844:1850" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="2109:3056" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="2173:2236" ph="iterator() → {" />
+            <marker date="1527673524000" expanded="true" signature="2286:3024" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="2482:3006" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="3034:3049" ph="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/optional/OptionalUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/preconditions/PreconditionsUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/objects/ObjectsUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+          <folding>
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#837#838#0" expanded="false" />
+            <element signature="e#1081#1082#0" expanded="false" />
+            <element signature="e#1099#1100#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1148#1149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/Ordering.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <marker date="1527673524000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1527673524000" expanded="false" signature="149:743" ph="..." />
+            <marker date="1527673524000" expanded="true" signature="912:961" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="1024:1035" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="1067:1073" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="1079:1128" ph="@{...}" />
+            <marker date="1527673524000" expanded="true" signature="1194:1320" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1326:1344" ph="/**...*/" />
+            <marker date="1527673524000" expanded="true" signature="1349:1414" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="1475:1486" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="1540:1546" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="1552:1601" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="1667:1678" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="1721:1727" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="1733:1782" ph="@{...}" />
+            <marker date="1527673524000" expanded="true" signature="1869:1951" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1957:2006" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="2052:2063" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="2096:2102" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="2108:2157" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="2208:2219" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="2257:2263" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="2311:2322" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="2381:2387" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="2414:2421" ph="{}" />
+            <marker date="1527673524000" expanded="true" signature="2427:2476" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="2523:2534" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="2567:2573" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="2579:2628" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="2678:2689" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="2725:2731" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="2737:2786" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="2835:2846" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="2881:2887" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="2893:2942" ph="@{...}" />
+            <marker date="1527673524000" expanded="true" signature="3016:3078" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="3130:3141" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="3184:3190" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="3196:3245" ph="@{...}" />
+            <marker date="1527673524000" expanded="true" signature="3335:3446" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="3452:3501" ph="@{...}" />
+            <marker date="1527673524000" expanded="true" signature="3600:3657" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="3663:3712" ph="@{...}" />
+            <marker date="1527673524000" expanded="false" signature="3777:3788" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="3829:3835" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="4012:4204" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="4284:4295" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="4332:4338" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="4426:4437" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="4476:4482" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="4597:4878" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="4959:5151" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="5231:5242" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="5279:5285" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="5373:5384" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="5423:5429" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="5544:5825" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="5897:6437" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="6509:7276" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="7350:7361" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="7404:7410" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="7484:7495" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="7538:7544" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="7638:7795" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="7907:7973" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="8036:8402" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="8473:8840" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="8846:8864" ph="/**...*/" />
+            <marker date="1527673524000" expanded="true" signature="8956:9027" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9123:9362" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9260:9356" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9447:11105" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9654:9665" ph="{}" />
+            <marker date="1527673524000" expanded="true" signature="9710:10077" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="10133:10901" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="10935:10950" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="10980:10990" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="11035:11050" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="11089:11099" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="11156:11311" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="11294:11305" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/ordering/OrderingUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/collection/ImmutableUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1295#1303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/MultisetUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/MultiMapuse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/BiMapUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/multi/TableUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/Collections2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <marker date="1527673524000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1527673524000" expanded="false" signature="149:771" ph="..." />
+            <marker date="1527673524000" expanded="true" signature="849:856" ph="{}" />
+            <marker date="1527673524000" expanded="true" signature="959:1250" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1335:1605" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="1688:1956" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="2070:2158" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="2232:2475" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="2534:3078" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="3145:3292" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="3349:3360" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="3388:3394" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="3520:3593" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="3723:3814" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="3905:3999" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="4073:4373" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="4457:6252" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="4591:4851" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="4893:5168" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="5210:6134" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="6167:6246" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="6346:7191" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="6444:6459" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="6482:6492" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="6519:6534" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="6582:6592" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="6626:6641" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="6654:6664" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="6709:6724" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="6784:6794" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="6850:7080" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="7114:7129" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="7175:7185" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="7288:9048" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="7455:7569" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="7611:7914" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="7956:8347" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="8373:8655" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="8686:9042" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9149:11040" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9356:9552" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="9658:10332" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="10359:10374" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="10391:10401" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="10435:10450" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="10463:10473" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="10519:10627" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="10683:10913" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="10947:10962" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="11024:11034" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="11117:12583" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="11324:11501" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="11530:11545" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="11573:11583" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="11617:11632" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="11669:11679" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="11718:11733" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="11807:11817" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="11863:11968" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="12026:12205" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="12123:12193" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="12287:12491" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="12398:12479" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="12518:12533" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="12567:12577" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="12654:16135" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="12828:12921" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="13016:13146" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="13186:13318" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="13386:13672" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="13701:13716" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="13768:13778" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="13838:13961" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="14023:14038" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="14092:14102" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="14136:14151" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="14206:14216" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="14255:14270" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="14338:14348" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="14394:14499" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="14557:14780" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="14650:14768" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="14827:14842" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="14907:14917" ph=" }" />
+            <marker date="1527673524000" expanded="true" signature="14978:15080" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="15141:15270" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="15189:15258" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="15352:15564" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="15459:15552" ph="{...}" />
+            <marker date="1527673524000" expanded="true" signature="15592:15890" ph="{...}" />
+            <marker date="1527673524000" expanded="false" signature="15925:15940" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="15993:16003" ph=" }" />
+            <marker date="1527673524000" expanded="false" signature="16046:16061" ph=" { " />
+            <marker date="1527673524000" expanded="false" signature="16119:16129" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0-sources.jar!/com/google/common/collect/Collections2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0-sources.jar!/com/google/common/collect/Ordering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9777">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghui/guava/collections/CollectionsUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#1565#1566#0" expanded="true" />
+            <element signature="e#1785#1786#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
+            <element signature="e#2035#2036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
