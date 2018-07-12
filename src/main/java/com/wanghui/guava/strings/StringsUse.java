@@ -24,6 +24,6 @@ public class StringsUse {
 		System.out.println(joiner.join("Harry", null, "Ron", "Hermione"));
 		System.out.println(Joiner.on("-").join(Arrays.asList(1,5,7)));
 
-		Splitter splitter = Splitter.on(",").
+		Splitter splitter = Splitter.on(",");
 	}
 }
