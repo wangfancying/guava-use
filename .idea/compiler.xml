@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="fancying-learn" />
         <module name="guava-use" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="fancying-learn" target="1.8" />
       <module name="guava-use" target="1.8" />
     </bytecodeTargetLevel>
   </component>
