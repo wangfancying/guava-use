@@ -44,26 +44,18 @@
 内容|内容|内容
 
 ### 代码框
+单行代码    
+`代码内容代码内容代码内容`
 
 
-单行代码    `代码内容代码内容代码内容`
+多行代码    
+```
+public @interface MyAnnotation {
 
-多行代码    ```
-           function fun(){
-             echo "这是一句非常牛逼的代码";
-           }
-           fun();
-           ```
-           
-
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
-
- 
+	/**
+	 * 注解中属性可以有默认值，默认值需要用 default 关键值指定
+	 */
+	int id() default 0;
+	String msg() default "default";
+}
+```
