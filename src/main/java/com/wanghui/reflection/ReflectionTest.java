@@ -2,6 +2,7 @@ package com.wanghui.reflection;
 
 import java.io.FileReader;
 import java.io.IOException;
+import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Properties;
@@ -50,17 +51,17 @@ public class ReflectionTest {
 		 * 3.通过Class类的静态方法：forName(String classPath)
 		 */
 		// 方法1
-//		ReflectionTest reflectionTest = new ReflectionTest();
-//		Class getClass = reflectionTest.getClass();
-//		System.out.println(getClass.getName());
+		ReflectionTest reflectionTest = new ReflectionTest();
+		Class getClass = reflectionTest.getClass();
+		System.out.println(getClass.getName());
 
 		// 方法2
 		Class nameClass = ReflectionTest.class;
-//		System.out.println(getClass == nameClass);
+		System.out.println(getClass == nameClass);
 
 		// 方法3
-//		Class forName = Class.forName("com.wanghui.reflection.ReflectionTest");
-//		System.out.println(forName == getClass);
+		Class forName = Class.forName("com.wanghui.reflection.ReflectionTest");
+		System.out.println(forName == getClass);
 
 		/**
 		 * 获取构造方法
@@ -71,12 +72,12 @@ public class ReflectionTest {
 		 * 反射创建对象
 		 * 	调用构造方法的newInstance方法
 		 */
-//		Constructor[] constructors = nameClass.getDeclaredConstructors();
-//		Constructor constructor = nameClass.getDeclaredConstructor(int.class);
-//		constructor.setAccessible(true);
-//		Object object = constructor.newInstance(12);
-//		ReflectionTest reflectionTest1 = (ReflectionTest) object;
-//		System.out.println(reflectionTest1.getId());
+		Constructor[] constructors = nameClass.getDeclaredConstructors();
+		Constructor constructor = nameClass.getDeclaredConstructor(int.class);
+		constructor.setAccessible(true);
+		Object object = constructor.newInstance(12);
+		ReflectionTest reflectionTest1 = (ReflectionTest) object;
+		System.out.println(reflectionTest1.getId());
 
 		/**
 		 * 根据配置文件加载
