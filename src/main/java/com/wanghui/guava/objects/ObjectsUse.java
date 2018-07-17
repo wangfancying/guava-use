@@ -49,6 +49,7 @@ public class ObjectsUse {
 			return Objects.equal(id, that.getId()) && Objects.equal(name, that.getName());
 		}
 
+
 		public int getId() {
 			return id;
 		}

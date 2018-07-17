@@ -21,8 +21,14 @@ public class MultisetUse {
 		multiset.setCount("b", 10);
 
 		System.out.println("multi size() : " + multiset.size());
+		/**
+		 * Multiset 的元素
+		 */
 		System.out.println("multi elementSet size(): " + multiset.elementSet().size());
+
+		/**
+		 * Multiset 的某个元素的数量
+		 */
 		System.out.println("multi a count : " + multiset.count("a"));
-		System.out.println("multi b count : " + multiset.count("b"));
 	}
 }

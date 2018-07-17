@@ -27,7 +27,8 @@ public class BiMapUse {
 		//强制替换key
 		biMap.forcePut("tecent","qq.com");
 		System.out.println(biMap);
-		System.out.println(biMap.inverse().get("sina.com"));
+		System.out.println(biMap.get("sina"));
+		System.out.println(biMap.inverse().get("sina.cn"));
 		System.out.println(biMap.inverse().inverse() == biMap);
 	}
 }

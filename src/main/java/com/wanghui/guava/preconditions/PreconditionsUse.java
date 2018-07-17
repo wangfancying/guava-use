@@ -39,17 +39,26 @@ public class PreconditionsUse {
 
 	}
 
+	/**
+	 * 判断参数是否符合某种条件，在不符合条件时会抛出IllegalArgumentException异常
+	 */
 	private static double sqrt(double input) {
 		Preconditions.checkArgument(input >= 0.0, "Illegal Argument passed: Negative value %s", input);
 		return Math.sqrt(input);
 	}
 
+	/**
+	 * 判断参数是否不是null，如果为null则会抛出NullPointerException空指针异常.
+	 */
 	private static int sum(Integer a, Integer b) {
 		Preconditions.checkNotNull(a, "First parameter is Null.");
 		Preconditions.checkNotNull(b, "Second parameter is Null.");
 		return a + b;
 	}
 
+	/**
+	 * 判断用户传入的数组下标或者list索引位置，是否是合法的
+	 */
 	private static int getValue(int input) {
 		int[] data={1,2,3,4,5};
 		Preconditions.checkElementIndex(input, data.length, "Invalid index.");

@@ -48,30 +48,14 @@ public class CollectionsUse {
 		times.add(91299990701L);
 		times.add(9320001010L);
 		times.add(9920170621L);
-		Collection<String> timeStrCol = Collections2.transform(times, new Function<Long, String>() {
-			@Nullable
-			@Override
-			public String apply(@Nullable Long input) {
-				return new SimpleDateFormat("yyyy-MM-dd").format(input);
-			}
-		});
+		Collection<String> timeStrCol = Collections2.transform(times,
+				(input) -> {return new SimpleDateFormat("yyyy-MM-dd").format(input);});
 		System.out.println("tranform  list : " + timeStrCol);
 
 		/**functions*/
-		Function<String, String> f1 = new Function<String, String>() {
-			@Nullable
-			@Override
-			public String apply(@Nullable String input) {
-				return input.length() > 5 ? input.substring(0, 5) : input;
-			}
-		};
-		Function<String, String> f2 = new Function<String, String>() {
-			@Nullable
-			@Override
-			public String apply(@Nullable String input) {
-				return input.toUpperCase();
-			}
-		};
+		Function<String, String> f1 = (s) -> {return s.length() > 5 ? s.substring(0, 5) : s;};
+		Function<String, String> f2 = (input -> {return input.toUpperCase();});
+
 		Function<String, String> function = Functions.compose(f1, f2);
 		Collection<String> results = Collections2.transform(filterList, function);
 		System.out.println(results);
