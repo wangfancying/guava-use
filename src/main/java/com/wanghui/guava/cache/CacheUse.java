@@ -24,13 +24,16 @@ import com.google.common.cache.LoadingCache;
 public class CacheUse {
 
 	/** LoadingCache 使用方式*/
-	private static LoadingCache<String, String> loadingCache = CacheBuilder.newBuilder().refreshAfterWrite(3, TimeUnit.HOURS)
-			.expireAfterAccess(3, TimeUnit.HOURS)
-			.maximumSize(1000).build(new CacheLoader<String, String>() {
+	private static LoadingCache<String, String> loadingCache = CacheBuilder.newBuilder()
+			.refreshAfterWrite(3, TimeUnit.HOURS) //重新刷新时间
+			.concurrencyLevel(8) //设置并发级别为8，并发级别是指可以同时写缓存的线程数
+			.expireAfterAccess(3, TimeUnit.HOURS) //设置缓存过期时间
+			.maximumSize(1000)	//设置缓存最大容量
+			.build(new CacheLoader<String, String>() {
 				/** 当本地缓存命没有中时，调用load方法获取结果并将结果缓存 **/
 				@Override
 				public String load(String key) throws Exception {
-					System.out.println("添加缓存。。。");
+					System.out.println("获取key : " + key);
 					return "loadingCache";
 				}
 			});
