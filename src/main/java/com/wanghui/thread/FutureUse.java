@@ -17,17 +17,15 @@ public class FutureUse {
 
 	@Test
 	public void testFuture() throws InterruptedException, ExecutionException {
-		// 网购
-		Callable<String> callable = new Callable<String>() {
-			@Override
-			public String call() throws Exception {
-				System.out.println("callable is doing work");
-				Thread.sleep(2000);
-				System.out.println("callable done");
-				return "this is ok";
-			}
+		// 网购任务
+		Callable<String> callable = () -> {
+			System.out.println("callable is doing work");
+			Thread.sleep(2000);
+			System.out.println("callable done");
+			return "this is ok";
 		};
 
+		// 执行task 任务
 		FutureTask<String> task = new FutureTask<>(callable);
 		new Thread(task).start();
 

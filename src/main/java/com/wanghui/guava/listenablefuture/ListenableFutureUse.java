@@ -26,14 +26,16 @@ public class ListenableFutureUse {
 	public static void main(String[] args) throws ExecutionException, InterruptedException {
 		ListeningExecutorService listeningExecutorService = MoreExecutors.listeningDecorator(Executors.newFixedThreadPool(5));
 
-		ListenableFuture expression = listeningExecutorService.submit(new Callable() {
-			@Override
-			public Object call() throws Exception {
-				System.out.println("this is ok");
-				return null;
-			}
-		});
+		// 创建任务
+		Callable<Object> callable = () -> {
+			System.out.println("this is ok");
+			return null;
+		};
 
+		// 提交任务
+		ListenableFuture expression = listeningExecutorService.submit(callable);
+
+		// 添加回调函数
 		Futures.addCallback(expression, new FutureCallback<Object>() {
 			@Override
 			public void onSuccess(@Nullable Object result) {
@@ -58,24 +60,21 @@ public class ListenableFutureUse {
 		 * @author hui.wang09
 		 * @since 2018/6/26
 		 */
-		ListenableFuture future1 = listeningExecutorService.submit(new Callable<Integer>() {
-			@Override
-			public Integer call() throws InterruptedException {
-				System.out.println("call future 1.");
-				return 1;
-			}
+
+		// 创建future
+		ListenableFuture future1 = listeningExecutorService.submit(() -> {
+			System.out.println("call future 1.");
+			return 1;
+		});
+		ListenableFuture future2 = listeningExecutorService.submit(() -> {
+			System.out.println("call future 2.");
+			return 2;
 		});
 
-		ListenableFuture future2 = listeningExecutorService.submit(new Callable<Integer>() {
-			@Override
-			public Integer call() throws InterruptedException {
-				System.out.println("call future 2.");
-				return 2;
-			}
-		});
-
+		// allAsList()方法
 		final ListenableFuture allFutures = Futures.allAsList(future1, future2);
 
+		// 添加回调函数
 		Futures.addCallback(allFutures, new FutureCallback<Object>() {
 			@Override
 			public void onSuccess(@Nullable Object result) {
