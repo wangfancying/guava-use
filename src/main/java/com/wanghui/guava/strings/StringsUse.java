@@ -36,11 +36,11 @@ public class StringsUse {
 		/**
 		 * 获取两个字符串相同的前缀
 		 */
-		System.out.println(Strings.commonPrefix("bianlifeng.com", "bianlifeng.cn"));
+		System.out.println(Strings.commonPrefix("test", "test"));
 		/**
 		 * 获取两个字符串相同的后缀
 		 */
-		System.out.println(Strings.commonSuffix("wdes.vip.bianlifeng.com", "smp.corp.bianlifeng.com"));
+		System.out.println(Strings.commonSuffix("test", "test"));
 
 		/**
 		 * 补全字符串
