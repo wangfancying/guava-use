@@ -1,0 +1,90 @@
+@startuml
+' 1.
+		'泛化关系图
+		Class Animal
+		Class Tiger
+		Animal <|-- Tiger:泛化
+
+		'依赖关系图
+		Class Screwdriver
+		Class Person
+		Person <.. Screwdriver:依赖
+
+		'关联关系图
+		Class Customer
+		Class Address
+		Customer <.. Address:关联
+
+		'聚合关系图
+		Class Student
+		Class School
+		Student o-- School:聚合
+
+		'实现关系图
+		Class Vehicle
+		Class Ship
+		Vehicle <|.. Ship:实现
+
+' 2.
+		'简单的类
+		Class China {
+			-- 注释说明 --
+		'	-表示private 权限
+			-String area
+		'	#表示protected权限
+			#long person
+		'	+表示public权限
+			+int rivers
+			.. 注释说明 ..
+			String getArea()
+			long getPerson()
+			== 注释说明 ==
+		'	表示抽象方法，斜体显示
+			{abstract}long method()
+		}
+		note left:左侧注明用途
+		note right of China:右侧注明用途
+		note top of China:上面注明用途
+		note bottom of China:下面注明用途
+
+		note "注释说明关系" as NOTE
+		Animal .. NOTE
+		NOTE .. Tiger
+
+' 3.
+		interface Set<<接口>>  {
+			boolean add (Object o)
+			boolean remove(Object o)
+		}
+
+		package "com.hui.wang.cn" #green{
+        	class HashSet<? extends String>{
+        		+boolean add (Object o)
+        		+boolean remove(Object o)
+        	}
+        	interface IntSet{
+        		boolean add (int i)
+        		boolean remove(int i)
+        	}
+        	class IntHashSet{
+        		+boolean add (int i)
+        		+boolean remove(int i)
+        	}
+
+        	Set <|.. HashSet
+            HashSet <|-- IntHashSet
+            IntSet <|.. IntHashSet
+		}
+		class TreeSet{
+        		+boolean add (Object o)
+                +boolean remove(Object o)
+        }
+        class IntTreeSet{
+         	+boolean add (int i)
+        	+boolean remove(int i)
+        }
+
+        IntSet <|.. IntTreeSet
+        TreeSet <|-- IntTreeSet
+        Set <|.. TreeSet
+@enduml
